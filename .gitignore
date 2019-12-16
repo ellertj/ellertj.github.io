@@ -1,0 +1,6 @@
+# for jekyll
+_site/
+
+# vim swap files
+*.swp
+*.swo
