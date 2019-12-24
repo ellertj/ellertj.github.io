@@ -1,5 +1,6 @@
 # for jekyll
 _site/
+.sass-cache/
 
 # vim swap files
 *.swp
