@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+        <head>
+                <meta charset="utf-8">
+                <title>{{ page.title }}</title>
+                <link rel="stylesheet" href="/assets/css/styles.css">
+        </head>
+        <body>
+                {% include navigation.html %}
+
+                <div id="container">
+                <div id="content-wrap">
+                <div class="blurb">
+
+                <div class="feed-title">
+                    <h1>{{ page.feedname }}</h1>
+                    <hr>
+                </div><!-- /.feed-title -->
+
+                <div class="feed-list">
+
+                {{ content }}
+
+                <div><!-- /.feed-list -->
+
+                </div><!-- /.blurb -->
+                </div><!-- /.content-wrap -->
+                {% include footer.html %}
+                </div><!-- /.container -->
+        </body>
+</html>
+
