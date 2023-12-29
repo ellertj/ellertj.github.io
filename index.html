@@ -3,14 +3,26 @@ layout: default
 title: Home
 ---
 
-{% assign post = site.posts.first %}
+<!-- {% assign post = site.posts.first %} -->
+{% assign about = site.pages.about %}
 <h1>Home</h1>
 
 <div class="flex-container">
-    <div class="blog-peek">
-        <h2>Latest Post: {{ post.title }}</h2>
-        <h3>{{ post.summary }}</h3>
-        <p>{{ post.excerpt }}<a href="{{ post.url }}">Read more</a></p>
+    <div class="home-left-column">
+        <div class="home-bio">
+            <p>
+                {% include bio.md %}
+            </p>
+        </div>
+        <div class="blog-peek">
+            <h2>Latest Post: {{ post.title }}</h2>
+            <h3>{{ post.summary }}</h3>
+            <p>{{ post.excerpt }}<a href="{{ post.url }}">Read more</a></p>
+        </div>
+        <div class="home-recs">
+            <h2>Things I Like on the Internet</h2>
+            {% include recommendations.html %}
+        </div>
     </div>
     <div class="lb-diary">
 

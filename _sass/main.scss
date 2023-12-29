@@ -65,7 +65,8 @@ ul.posts li {
         margin-bottom: 30px;
 }
 .feed-list h3 {
-        font-size: 1em;
+        font-size: 0.9em;
+        font-style: italic;
         color: #AAA;
         margin: auto;
         margin-top: 5px;
@@ -126,7 +127,30 @@ nav {
 .lb-diary {
     margin: auto;
 }
-.blog-peek {
+.lb-diary h2 {
+    margin: 0px;
+    margin-bottom: 1em;
+}
+.home-left-column {
     margin: 0px;
     margin-right: 3em;
+}
+.home-bio {
+    padding: 0px;
+    margin: 0px;
+}
+.blog-peek {
+    padding: 0px;
+    margin: 0px;
+}
+.blog-peek h3 {
+    font-family: "Helvetica";
+    // font-style: italic;
+    color: #666;
+    margin: auto;
+    margin-bottom: 0px;
+}
+.home-recs {
+    padding: 0px;
+    margin: 0px;
 }

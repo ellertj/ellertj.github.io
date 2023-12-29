@@ -1,0 +1,9 @@
+- name: xkcd
+  link: https://xkcd.com
+  description: great webcomic, also books and a new youtube channel
+- name: SMBC
+  link: https://smbc-comics.com
+  description: great webcomic, also books
+- name: Tom Scott
+  link: https://www.youtube.com/@TomScottGo
+  description: main youtube channel is amazing, spinoff channels and podcast are also great

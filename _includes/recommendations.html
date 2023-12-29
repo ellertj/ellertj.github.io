@@ -1,0 +1,5 @@
+<ul>
+        {% for item in site.data.recommendations %}
+        <li><p><a href="{{ item.link }}">{{ item.name }}</a>: {{ item.description }}</p></li>
+        {% endfor %}
+</ul>
