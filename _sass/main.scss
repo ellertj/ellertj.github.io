@@ -4,7 +4,7 @@ body {
 }
 ul {
         list-style-type: none;
-        padding: 20px;
+        padding: 10px;
 }
 nav ul, footer ul {
         font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -62,11 +62,21 @@ ul.posts li {
         margin: 0px; 
 }
 .feed-list li {
-        margin-bottom: 50px;
+        margin-bottom: 30px;
+}
+.feed-list h3 {
+        font-size: 1em;
+        color: #AAA;
+        margin: auto;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 .feed-list h2 {
+        font-size: 1.5em;
         line-height: 1.2em;
         margin: auto;
+        text-align: left;
 }
 .feed-list a {
         text-decoration: none;
@@ -78,6 +88,7 @@ ul.posts li {
 }
 .feed-list p {
         color: #666;
+        margin: auto;
 }
 
 #container {

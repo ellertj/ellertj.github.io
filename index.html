@@ -2,4 +2,12 @@
 layout: default
 title: Home
 ---
-Still working on this website, better stuff coming soon!
+{% for post in site.posts limit:1 %}
+
+{{ post.title }}
+<br>
+{{ post.summary }}
+<br>
+{{ post.excerpt }}
+
+{% endfor %}
