@@ -2,12 +2,27 @@
 layout: default
 title: Home
 ---
-{% for post in site.posts limit:1 %}
 
-{{ post.title }}
-<br>
-{{ post.summary }}
-<br>
-{{ post.excerpt }}
+{% assign post = site.posts.first %}
+<h1>Home</h1>
 
-{% endfor %}
+<div class="flex-container">
+    <div class="blog-peek">
+        <h2>Latest Post: {{ post.title }}</h2>
+        <h3>{{ post.summary }}</h3>
+        <p>{{ post.excerpt }}<a href="{{ post.url }}">Read more</a></p>
+    </div>
+    <div class="lb-diary">
+
+        <h2>Recent movies watched</h2>
+        <div id="letterboxd-embed-wrapper-tc">Loading...</div>
+        <script>
+        fetch('https://lb-embed-content.bokonon.dev?username=dugski')
+        .then(response => response.text())
+        .then(data => {
+        document.getElementById('letterboxd-embed-wrapper-tc').innerHTML = data;
+        });
+        </script>
+
+    </div>
+</div>

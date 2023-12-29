@@ -32,7 +32,7 @@ h1 {
 h2 {
         font-size: 1.5em;
         font-family:'Helvetica', 'Arial', 'Sans-Serif';
-        line-height: 0.5em;
+        // line-height: em;
 }
 p {
         font-size: 1em;
@@ -91,13 +91,20 @@ ul.posts li {
         margin: auto;
 }
 
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    margin: auto;
+    margin-bottom: 1em;
+}
 #container {
         position: relative;
         min-height: 80vh;
         margin: auto;
-        max-width: 600px;
+        max-width: 800px;
 }
-
 #content-wrap {
         padding-bottom: 1.5rem; /* Footer height */
 }
@@ -111,8 +118,15 @@ footer {
 nav {
         position: relative;
         margin: auto;
-        max-width: 600px;
+        max-width: 800px;
 }
 .current {
         color: #666;
+}
+.lb-diary {
+    margin: auto;
+}
+.blog-peek {
+    margin: 0px;
+    margin-right: 3em;
 }
