@@ -1,14 +1,14 @@
 ---
-layout: default
+layout: feed
 title: Blog
+feedname: Latest Posts
 ---
-<h1>Latest Posts</h1>
-
 <ul>
         {% for post in site.posts %}
                 <li>
                         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                        <p>{{ post.excerpt }}</p>
+                        <h3>{{ post.date | date_to_string }}</h3>
+                        <p>{{ post.summary }}</p>
                 </li>
         {% endfor %}
 </ul>

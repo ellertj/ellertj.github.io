@@ -2,4 +2,38 @@
 layout: default
 title: Home
 ---
-Still working on this website, better stuff coming soon!
+
+<!-- <br> -->
+{% assign post = site.posts.first %}
+<h1>Home</h1>
+
+<div class="flex-container">
+    <div class="home-left-column">
+        <div class="home-bio">
+            <p>
+                {% include bio.md %}
+            </p>
+        </div>
+        <div class="blog-peek">
+            <h2>Latest Post: {{ post.title }}</h2>
+            <h3>{{ post.summary }}</h3>
+            <p>{{ post.excerpt }}<a href="{{ post.url }}">Read more</a></p>
+        </div>
+        <div class="home-recs">
+            {% include recommendations.html %}
+        </div>
+    </div>
+    <div class="lb-diary">
+
+        <h2>Recently Watched</h2>
+        <div id="letterboxd-embed-wrapper-tc">Loading...</div>
+        <script>
+        fetch('https://lb-embed-content.bokonon.dev?username=dugski')
+        .then(response => response.text())
+        .then(data => {
+        document.getElementById('letterboxd-embed-wrapper-tc').innerHTML = data;
+        });
+        </script>
+
+    </div>
+</div>

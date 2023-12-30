@@ -1,0 +1,28 @@
+<h2>Things I've Been Enjoying</h2>
+<h3>Reading</h3>
+<p>
+    {% for item in site.data.reading %}
+        {% unless forloop.first %}
+            &bull;
+        {% endunless %}
+        <a href="{{ item.link }}">{{ item.name }}</a>
+    {% endfor %}
+</p>
+<h3>Listening</h3>
+<p>
+    {% for item in site.data.listening %}
+        {% unless forloop.first %}
+            &bull;
+        {% endunless %}
+        <a href="{{ item.link }}">{{ item.name }}</a>
+    {% endfor %}
+</p>
+<h3>Watching</h3>
+<p>
+    {% for item in site.data.watching %}
+        {% unless forloop.first %}
+            &bull;
+        {% endunless %}
+        <a href="{{ item.link }}">{{ item.name }}</a>
+    {% endfor %}
+</p>

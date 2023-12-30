@@ -1,7 +1,6 @@
 <!doctype html>
 <html>
         <head>
-                <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script><!-- enable latex in markdown -->
                 <meta charset="utf-8">
                 <title>{{ page.title }}</title>
                 <link rel="stylesheet" href="/assets/css/styles.css">
@@ -13,7 +12,16 @@
                 <div id="content-wrap">
                 <div class="blurb">
 
+                <div class="feed-title">
+                    <h1>{{ page.feedname }}</h1>
+                    <!-- <hr> -->
+                </div><!-- /.feed-title -->
+
+                <div class="feed-list">
+
                 {{ content }}
+
+                <div><!-- /.feed-list -->
 
                 </div><!-- /.blurb -->
                 </div><!-- /.content-wrap -->

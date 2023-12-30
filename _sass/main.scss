@@ -2,6 +2,10 @@ body {
         margin: 60px auto;
         width: 70%;
 }
+ul {
+        list-style-type: none;
+        padding: 10px;
+}
 nav ul, footer ul {
         font-family:'Helvetica', 'Arial', 'Sans-Serif';
         padding: 0px;
@@ -21,13 +25,19 @@ a:hover {
         color: #666;
 }
 h1 {
-        font-size: 3em;
+        font-size: 2em;
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
+        border-bottom: 1px solid #d5d5d5;
+}
+h2 {
+        font-size: 1.5em;
         font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-        font-size: 1.5em;
+        font-size: 1em;
         line-height: 1.4em;
         color: #333;
+        font-family:'Georgia'; 
 }
 footer {
         border-top: 1px solid #d5d5d5;
@@ -37,27 +47,182 @@ footer {
 ul.posts {
         margin: 20px auto 40px;
         font-size: 1.5em;
-}
-
+} 
 ul.posts li {
         list-style: none;
 }
-
+.feed-title h1 {
+        font-size: 2em;
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
+        margin-bottom: 0px;
+}
+.feed-list li {
+        margin-bottom: 30px;
+}
+.feed-list h3 {
+        font-size: 0.9em;
+        // font-style: italic;
+        color: #AAA;
+        margin: auto;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+.feed-list h2 {
+        font-size: 1.5em;
+        line-height: 1.2em;
+        margin: auto;
+        text-align: left;
+}
+.feed-list a {
+        text-decoration: none;
+        color: #333;
+}
+.feed-list a:hover {
+        text-decoration: underline;
+        color: #666;
+}
+.feed-list p {
+        color: #666;
+        margin: auto;
+}
+// .flex-container {
+//     display: flex;
+//     flex-direction: row;
+//     flex-wrap: nowrap;
+//     align-items: flex-start;
+//     margin: auto;
+//     margin-bottom: 1em;
+// }
 #container {
         position: relative;
         min-height: 80vh;
+        margin: auto;
+        max-width: 800px;
+        padding-top: 0.5em;
 }
-
 #content-wrap {
-        padding-bottom: 2.5rem; /* Footer height */
+        padding-bottom: 1.5rem; /* Footer height */
 }
-
 footer {
         position: absolute;
         bottom: 0;
         width: 100%;
-        height: 2.5rem; /* Footer height */
+        height: 1.5rem; /* Footer height */
+}
+nav {
+        position: relative;
+        margin: auto;
+        max-width: 800px;
 }
 .current {
         color: #666;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    margin: auto;
+    margin-bottom: 1em;
+}
+.lb-diary {
+    margin: auto;
+    min-width: 250px;
+}
+.lb-diary h2 {
+    margin: 0px;
+    margin-bottom: 1em;
+}
+.letterboxd-embed-tc-title {
+    font-family: "Helvetica";
+}
+.home-left-column {
+    margin: 0px;
+    margin-right: 3em;
+}
+.home-left-column h3 {
+    font-family: "Helvetica";
+    color: #666;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.home-bio {
+    padding: 0px;
+    margin: 0px;
+}
+.home-bio p {
+    padding: 0px;
+    margin: auto;
+}
+.blog-peek {
+    padding: 0px;
+    margin: 0px;
+    margin-top: 2em;
+}
+.blog-peek h3 {
+    font-size: 18px;
+}
+.home-recs {
+    padding: 0px;
+    margin: 0px;
+    margin-top: 2em;
+}
+.home-recs a {
+        text-decoration: none;
+        color: #333;
+}
+.home-recs a:hover {
+        text-decoration: underline;
+        color: #666;
+}
+.home-recs h3 {
+    margin: 0px;
+}
+.home-recs p {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+.post-navigation {
+    font-family: "Helvetica";
+    font-size: 14px;
+    display: block;
+    width: auto;
+    overflow: hidden;
+    margin-top: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 2em;
+}
+.post-navigation a {
+    display: block;
+    width: 42%;
+    float: left;
+    margin: 0;
+    padding: 0px;
+}
+.post-navigation .next {
+    text-align: right;
+}
+.post-navigation .post-date {
+    display: block;
+    width: 16%;
+    float: left;
+    margin: 0;
+    color: #AAA;
+    padding: 0px;
+    font-family: "Helvetica";
+    text-align: center;
+}
+.post-summary p {
+    font-family: "Georgia";
+    font-style: italic;
+    font-size: 14px;
+    color: #666;
+    margin: auto;
+}
+.blog-post .post-content {
+    color: #000;
+    font-size: 14px;
 }
