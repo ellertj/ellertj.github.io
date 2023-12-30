@@ -15,7 +15,11 @@ title: Home
             </p>
         </div>
         <div class="blog-peek">
-            <h2>Latest Post: {{ post.title }}</h2>
+            <h2>
+                <a href="{{ post.url }}">
+                    Latest Post: {{ post.title }}
+                </a>
+            </h2>
             <h3>{{ post.summary }}</h3>
             <p>{{ post.excerpt }}<a href="{{ post.url }}">Read more</a></p>
         </div>

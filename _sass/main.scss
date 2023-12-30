@@ -161,8 +161,16 @@ nav {
     margin: 0px;
     margin-top: 2em;
 }
+.blog-peek a {
+        text-decoration: none;
+        color: #000;
+}
+.blog-peek a:hover {
+        text-decoration: underline;
+        color: #666;
+}
 .blog-peek h3 {
-    font-size: 18px;
+    font-size: 14px;
 }
 .home-recs {
     padding: 0px;
