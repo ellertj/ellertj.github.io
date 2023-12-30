@@ -27,12 +27,10 @@ a:hover {
 h1 {
         font-size: 2em;
         font-family:'Helvetica', 'Arial', 'Sans-Serif';
-        // margin-bottom: 0.2em;
 }
 h2 {
         font-size: 1.5em;
         font-family:'Helvetica', 'Arial', 'Sans-Serif';
-        // line-height: em;
 }
 p {
         font-size: 1em;
@@ -131,9 +129,19 @@ nav {
     margin: 0px;
     margin-bottom: 1em;
 }
+.letterboxd-embed-tc-title {
+    font-family: "Helvetica";
+}
 .home-left-column {
     margin: 0px;
     margin-right: 3em;
+}
+.home-left-column h3 {
+    font-family: "Helvetica";
+    color: #666;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 0px;
 }
 .home-bio {
     padding: 0px;
@@ -142,15 +150,28 @@ nav {
 .blog-peek {
     padding: 0px;
     margin: 0px;
+    margin-top: 3em;
 }
 .blog-peek h3 {
-    font-family: "Helvetica";
-    // font-style: italic;
-    color: #666;
-    margin: auto;
-    margin-bottom: 0px;
+    font-size: 18px;
 }
 .home-recs {
     padding: 0px;
     margin: 0px;
+    margin-top: 3em;
+}
+.home-recs a {
+        text-decoration: none;
+        color: #333;
+}
+.home-recs a:hover {
+        text-decoration: underline;
+        color: #666;
+}
+.home-recs h3 {
+    margin: 0px;
+}
+.home-recs p {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
 }

@@ -1,5 +1,33 @@
-<ul>
-        {% for item in site.data.recommendations %}
-        <li><p><a href="{{ item.link }}">{{ item.name }}</a>: {{ item.description }}</p></li>
-        {% endfor %}
-</ul>
+<!-- <ul> -->
+        <!-- {% for item in site.data.recommendations %} -->
+        <!-- <li><p><a href="{{ item.link }}">{{ item.name }}</a>: {{ item.description }}</p></li> -->
+        <!-- {% endfor %} -->
+<!-- </ul> -->
+<h2>Things I've Been Enjoying</h2>
+<h3>Reading</h3>
+<p>
+    {% for item in site.data.reading %}
+        {% unless forloop.first %}
+            •
+        {% endunless %}
+        <a href="{{ item.link }}">{{ item.name }}</a>
+    {% endfor %}
+</p>
+<h3>Listening</h3>
+<p>
+    {% for item in site.data.listening %}
+        {% unless forloop.first %}
+            •
+        {% endunless %}
+        <a href="{{ item.link }}">{{ item.name }}</a>
+    {% endfor %}
+</p>
+<h3>Watching</h3>
+<p>
+    {% for item in site.data.watching %}
+        {% unless forloop.first %}
+            •
+        {% endunless %}
+        <a href="{{ item.link }}">{{ item.name }}</a>
+    {% endfor %}
+</p>
