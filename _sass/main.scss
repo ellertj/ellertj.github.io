@@ -89,7 +89,6 @@ ul.posts li {
         color: #666;
         margin: auto;
 }
-
 .flex-container {
     display: flex;
     flex-direction: row;
@@ -103,11 +102,11 @@ ul.posts li {
         min-height: 80vh;
         margin: auto;
         max-width: 800px;
+        padding-top: 0.5em;
 }
 #content-wrap {
         padding-bottom: 1.5rem; /* Footer height */
 }
-
 footer {
         position: absolute;
         bottom: 0;
@@ -122,8 +121,17 @@ nav {
 .current {
         color: #666;
 }
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    margin: auto;
+    margin-bottom: 1em;
+}
 .lb-diary {
     margin: auto;
+    min-width: 250px;
 }
 .lb-diary h2 {
     margin: 0px;
@@ -147,10 +155,14 @@ nav {
     padding: 0px;
     margin: 0px;
 }
+.home-bio p {
+    padding: 0px;
+    margin: auto;
+}
 .blog-peek {
     padding: 0px;
     margin: 0px;
-    margin-top: 3em;
+    margin-top: 2em;
 }
 .blog-peek h3 {
     font-size: 18px;
@@ -158,7 +170,7 @@ nav {
 .home-recs {
     padding: 0px;
     margin: 0px;
-    margin-top: 3em;
+    margin-top: 2em;
 }
 .home-recs a {
         text-decoration: none;
