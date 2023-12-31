@@ -127,7 +127,7 @@ nav {
     margin-bottom: 1em;
 }
 .lb-diary {
-    margin: auto;
+    // margin: auto;
     min-width: 250px;
 }
 .lb-diary h2 {
@@ -170,7 +170,7 @@ nav {
         color: #666;
 }
 .blog-peek h3 {
-    font-size: 14px;
+    font-size: 18px;
 }
 .home-recs {
     padding: 0px;
@@ -233,4 +233,15 @@ nav {
 .blog-post .post-content {
     color: #000;
     font-size: 14px;
+}
+.blog-post .post-content h2 {
+    margin-top: 1.5em;
+}
+.blog-post .post-content a {
+    color: #666;
+    // text-decoration: underline;
+}
+.blog-post .post-content a:hover {
+    color: #999;
+    text-decoration: underline;
 }
