@@ -52,20 +52,20 @@ I'm not a horror movie scholar by any stretch, but I think anyone who is
 avoiding this film on account of it being tagged with the word "Horror" on
 IMDb is missing out on something great. While it has lots in common with
 horror movies, it feels to me like a sci-fi mystery at its core presented
-in the style of horror. It almost feels like someone took a premise that could
+in the style of horror. It almost feels like someone took a script that could
 have been an all-time great episode of _Doctor Who_ and adapted it for the
 big screen (I promise I mean that as a compliment).
 
 ## _2 Fast 2 Furious_ (2003)
 One of the highlights of this year for me was watching every
 feature-length movie in the _Fast & Furious_ franchise in time to see
-_Fast X (2023)_ when it came out. There is a lot to be said about this series,
+_Fast X_ when it came out. There is a lot to be said about this series,
 and I may even decide to write more about it someday. Right now I want to point
 out that over the last two decades of this franchise's storied history, a lot
 has changed, and I think the public consciousness has forgotten that the first
 few of these movies _absolutely rock_, completely unironically. People will
 disagree on where the series took its turn: I would guess a big point of
-contention is _The Fast and the Furious: Tokyo Drift (2006)_, before the series
+contention is _The Fast and the Furious: Tokyo Drift_, before the series
 has been reduced to typical big-budget action junk food,
 but where it gets hard to take anything seriously.
 
@@ -75,12 +75,26 @@ The first entry in the franchise should get credit for being a great movie too,
 but the sequel is, for me, the peak of the series. It copies the formula from
 the original, keeps Paul Walker, but sets aside Vin Diesel and benefits greatly
 from a change of scenery. Abandoning LA for an opportunity to indulge in the
-beachfront lifestyle and high-octane nightlife of Miami---
-[hm, I wonder if any other franchises could pull that off?](https://www.rockstargames.com/VI)
-This movie also introduces Tyrese and Ludacris to the cast, both of whom become
-fixtures in the later movies and whose characters I claim are the only
+beachfront lifestyle and high-octane nightlife of Miami---[hmm, I wonder if any
+other franchises could pull that off?](https://www.rockstargames.com/VI)
+This movie introduces Tyrese and Ludacris to the cast, both of whom become
+fixtures in the later films and whose characters I claim are the only
 consistently enjoyable elements of the series. Devon Aoki and Eva Mendes also
 deserve a shout-out for being just as fun to watch despite not ending up as core
 members of Dom's Family.
-At the end of the day, _2 Fast_ strongly makes the case that a movie which is
+At the end of the day, _2 Fast_ makes a strong case that a movie which is
 shallow and formulaic _can be really fun!_ 
+
+## _Kill Bill: Vol. 1_ (2003)
+Somehow, before this year, I had seen _Kill Bill: Vol. 2_ but never
+[_Kill Bill: Vol. 1_](https://www.imdb.com/title/tt0266697/).
+I had a whole afternoon to myself alone in my parents' house with a nice
+big TV, so I decided, what the heck, I'll watch them both back-to-back.
+Best idea I had all year. In contrast with _2 Fast_, _Kill Bill_ is
+a tropey action movie while being thought-provoking and while Uma Thurman
+gives one of the best performances I think I'll ever see, period.
+The depths of _Kill Bill_ have been explored by much more qualified
+people than myself, so I won't try to give my own interpretation here.
+My point is just that watching these movies, especially as a double-feature,
+was a throughly rewarding experience---not _just_ "fun" or "cool set pieces"
+or "great acting" or "deep" but all of those things at once.
