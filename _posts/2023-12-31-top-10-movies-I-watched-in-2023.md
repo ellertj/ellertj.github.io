@@ -7,8 +7,8 @@ summary: In 2023 I started a quest to watch at least one new movie every week. T
 At the beginning of this year, I made three main resolutions for 2023: quit
 Twitter, read one new book every month, and watch one new movie every week.
 Results varied. I dutifully deleted the Twitter app from my phone on January
-1st and saw immediate benefits in productivity and mood---for a few weeks
-until other apps filled the vacuum.
+1st and saw immediate benefits in productivity and mood---for a few weeks,
+until other apps took its place.
 Reading one book each month proved a little challenging. I was consistent for the
 first few months, then fell behind, then tried to catch up, and then realized
 it was starting to feel like a chore, so I gave myself permission to lapse.
@@ -16,13 +16,14 @@ I ended up starting ten books and finishing seven over the course of the year,
 and I'm going into 2024 with a sizeable stack of unreads that I will
 _non-committally_ work my way through without putting _any_ pressure on myself.
 On the other hand, my resolution to watch one movie per week went way better
-than I expected. 
-
+than I expected.
 I ended up watching 57 movies this year that I hadn't seen before. Some were
 new releases I caught in theaters, others were old things I felt I'd missed
 out on and needed to see. They're not all classics, or even that good, but
-I enjoyed most of them. I've put together a list of the top ten that I watched
-this year, in no particular order. The definition of this list is loose.
+I enjoyed most of them. 
+
+I've put together a top ten list, in no particular
+order. The definition of this list is loose.
 I'm not claiming that these are definitely better films than the other 47; it's
 more like these are the ten that I either loved the most or felt deserved some
 recognition. Anyway, here's the list. Beware spoilers.
@@ -32,9 +33,9 @@ I started the year by catching up on a few of the nominees for Best
 Picture, and
 [_The Banshees of Inisherin_](https://www.imdb.com/title/tt11813216/)
 was my favorite of those. It's the exact sort of movie I tend to enjoy: 
-the characters are interesting, the plot is (on some level) meaningless,
-and the acting and atmosphere are executed perfectly. 
-Director Martin McDonagh's particular brand of dark comedy works really well
+the characters and setting are interesting, the acting is good,
+and the plot is (on some level) meaningless,
+Director Martin McDonagh's brand of dark comedy works really well
 for me here.  One has to be careful to avoid looking performatively edgy by
 saying "I liked this movie for the shock factor," so I'll try to
 sidestep that by saying I liked this movie because of *how ridiculous* the
@@ -42,15 +43,15 @@ shock factor is. This movie tells you that Brendan Gleeson is planning to cut
 off his own finger, and then you say "That would be kind of insane, don't you
 think," and it sort of agrees, "Yeah, that would be dumb." And then Brendan
 Gleeson cuts off his finger, and you look at the movie in disgust, and
-the movie looks right back at you and says "What else were you expecting?"
+the movie looks right back at you and says, "What else were you expecting?"
 
 ## _Nope_ (2022)
 I don't know how much I have to say about
-[Nope](https://www.imdb.com/title/tt10954984/)
+[_Nope_](https://www.imdb.com/title/tt10954984/)
 other than that it's really, really good.
 I'm not a horror movie scholar by any stretch, but I think anyone who is
-avoiding this film on account of it being tagged with the word "Horror" on
-IMDb is missing out on something great. While it has lots in common with
+avoiding this film on account of it being _technically_ a horror movie
+is missing out on something great. While it has lots in common with
 horror movies, it seems much more like a sci-fi mystery presented
 in the style of horror. It almost feels as though someone took a script that
 could have been an all-time great episode of _Doctor Who_ and adapted it for the
@@ -60,7 +61,7 @@ big screen (I promise I mean that as a compliment).
 One of the highlights of this year for me was watching every
 feature-length movie in the _Fast & Furious_ franchise in time to see
 _Fast X_ when it came out. There is a lot to be said about this series,
-and I may even decide to write more about it someday. Right now I want to point
+and I may even decide to write more about it someday. For now I want to point
 out that a lot has changed over the last two decades of this franchise's
 complicated history, and I think the public consciousness has forgotten that the
 first few of these movies _absolutely rock_, completely unironically. People
@@ -75,9 +76,8 @@ The first entry in the franchise should also get some credit for being great,
 but the sequel is, for me, the peak of the series. It copies the formula from
 the original and keeps Paul Walker, but sets aside Vin Diesel and benefits
 greatly from a change of scenery. Abandoning LA for an opportunity to indulge in
-the beachfront lifestyle and high-octane nightlife of Miami---[hmm, I wonder if
-any other franchises could pull that off?](https://www.rockstargames.com/VI)---was
-a great move.
+the beachfront lifestyle and high-octane nightlife of Miami was a great
+move---[hmm, I wonder if any other franchises could pull that off?](https://www.rockstargames.com/VI)
 _2 Fast_ introduces Tyrese and Ludacris to the cast, both of whom become
 fixtures in the later films and whose characters I claim are the only
 consistently enjoyable elements of the series. Devon Aoki and Eva Mendes also
@@ -97,7 +97,7 @@ big TV, so I decided, what the heck, I'll watch them both back-to-back.
 Best idea I had all year. In contrast with _2 Fast_, _Kill Bill_ is
 a tropey action movie while also being thought-provoking and while Uma Thurman
 gives one of the best performances I think I'll ever see, period.
-(And, of course, the tropiness is due to deliberate homage to kung-fu movies,
+(And, of course, the tropiness is deliberate homage to kung-fu movies,
 so no complaints from me.)
 The depths of _Kill Bill_ have been explored by much more qualified
 people than myself, so I won't try to give my own interpretation here.
@@ -111,10 +111,10 @@ I also liked _Isle of Dogs_ and _Moonrise Kingdom_ but until this year I
 hadn't seen most of his other films. I decided to fix that, first by
 watching _The Grand Budapest Hotel_. I thought it was a good movie, but
 I didn't love it as much as I thought I would. I thought that maybe I'd
-outgrown the Wes Anderson quirky aesthetic, or that it works better in the
-stop-motion style and doesn't come across as well in live action.
+outgrown the (now TikTok famous) Wes Anderson quirky aesthetic, or that it works
+better in the stop-motion style and doesn't come across as well in live action.
 [_The French Dispatch_](https://www.imdb.com/title/tt8847712/)
-completely changed my mind. The eccentric art style thing worked for me, and
+completely changed my mind. The eccentric style worked for me, and
 I liked the anthology format a lot.
 My favorite story was _The Concrete Masterpiece_, with
 Benicio del Toro, L&eacute;a Seydoux, Adrien Brody, and Tilda Swinton.
@@ -158,7 +158,7 @@ into a tedious film bro with posters of _Kill Bill_ and
 [_Uncut Gems_](https://www.imdb.com/title/tt5727208/)
 on my bedroom wall.  No posters yet, but the jury's still out on whether I've
 become douchier this year.
-Anyway, I liked _Uncut Gems_, sue me. The reason it's on this list is because
+Anyway, I liked _Uncut Gems_. The reason it's on this list is because
 of how impressive I found its ability to cultivate tension throughout the
 _entire_ story.
 This movie stressed me out so much that I had to sort of watch it in my
@@ -178,7 +178,7 @@ but didn't know much about it beyond the most basic premise.
 If you don't already know, the selling point of this movie is that
 Nicolas Cage is a terrorist and John Travolta is an FBI agent and
 for convoluted reasons they _swap faces_.
-I was expecting it to be pretty bad but in a fun way, and was pleasantly
+I was expecting it to be kind of bad but in a fun way, and was pleasantly
 surprised that it was actually pretty solid. I'll admit that it's not on this
 list for being a better movie than the rest, but I really wanted to talk about
 it. It's amazing how much actually happens in the movie;
@@ -198,15 +198,15 @@ He becomes a profoundly desperate character unlike any other I can think of.
 Which only makes it more moving when, through sheer determination,
 and maybe also the power of love, he manages to claw his way to victory and get
 his old life back.
-And have I mentioned how good Travolta and Cage's performances are?
+And I haven't even mentioned how good Travolta and Cage's performances are.
 Watching Cage play Archer trapped in Troy's body while earnestly pretending to
 be Troy and seeing each layer of this complicated character come across on
 screen is so cool.
 
 ## _Jackie Brown_ (1997)
 
-By far the biggest hidden gem on this list. I was making my way through some
-Tarantino movies and was all ready to watch _Once Upon a Time in Hollywood_
+I was making my way through some
+Tarantino movies and getting ready to watch _Once Upon a Time in Hollywood_
 when I made a last-minute decision to see
 [_Jackie Brown_](https://www.imdb.com/title/tt0119396/),
 a movie I'd basically never heard of before, instead.
@@ -215,13 +215,32 @@ as Tarantino's better-known work. One reason might be that it's in some ways
 less original than his other movies.
 Either way, this was such an interesting watch. 
 It invites comparison to _The Sting_ and other heist movies in the way that
-it keeps the audience largely clued in to the main character's motivations
-while withholding some key pieces of information in service of cultivating
-tension and paying off a twist.
-I also noticed strong similarities to _Better Call Saul_, which obviously came
-later, to the point that I think I've hallucinated an interview where Vince
-Gilligan says he drew inspiration from _Jackie Brown_ when writing his show.
-Now that I've seen the similarity, I want to see more in this genre.
-Not necessarily heists being pulled off by professional criminals, but ordinary
+it keeps the audience largely clued in to the main character's plans
+while at the same time withholding some key pieces of information in service
+of building tension and paying off a twist.
+But the setting and characters are refreshingly different from
+other heist or crime movies.
+Jackie Brown (Pam Grier) is basically a normal person
+who has to use her ingenuity to get herself out of a jam.
+She does it with such infectious confidence that I spent most of the movie
+just trusting that she knew what she was doing even if I didn't.
+
+It reminded me a lot of _Better Call Saul_, to the point that I googled
+"Vince Gilligan Jackie Brown" to see if he'd ever cited it as an inspiration.
+Sure enough, Gilligan says
+[he's watched it a dozen times](https://ew.com/tv/2019/10/15/vince-gilligan-tribute-robert-forster-el-camino-breaking-bad-movie/).
+Now that I've seen the similarity, I want more of this genre:
+not jobs being pulled off by professional criminals, but ordinary
 people, backed into a corner, willing to break a few laws and use their
-ingenuity to come out on top.
+heads to come out on top.
+
+<br>
+
+If you want to see the rest of the list from the past year you
+can check out my [letterboxd diary](https://letterboxd.com/dugski).
+I welcome any recommendations based on this list, but I'm also more than willing
+to try new things that maybe don't fit in with this list as much.
+And, yes, I plan to continue watching one movie a week in 2024.
+It's become a key part of my weekly routine and I've really enjoyed it,
+so I think I'll keep it up.
+&#9724;
