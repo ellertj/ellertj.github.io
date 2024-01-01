@@ -39,10 +39,10 @@ for me here.  One has to be careful to avoid looking performatively edgy by
 saying "I liked this movie for the shock factor," so I'll try to
 sidestep that by saying I liked this movie because of *how ridiculous* the
 shock factor is. This movie tells you that Brendan Gleeson is planning to cut
-off his own finger, and then you say "that would be kind of insane, don't you
-think," and it sort of agrees, "yeah, that would be dumb." And then Brendan
+off his own finger, and then you say "That would be kind of insane, don't you
+think," and it sort of agrees, "Yeah, that would be dumb." And then Brendan
 Gleeson cuts off his finger, and you look at the movie in disgust, and
-the movie looks right back at you and says "what else were you expecting?"
+the movie looks right back at you and says "What else were you expecting?"
 
 ## _Nope_ (2022)
 I don't know how much I have to say about
@@ -51,7 +51,7 @@ other than that it's really, really good.
 I'm not a horror movie scholar by any stretch, but I think anyone who is
 avoiding this film on account of it being tagged with the word "Horror" on
 IMDb is missing out on something great. While it has lots in common with
-horror movies, it seems much more at its core like a sci-fi mystery presented
+horror movies, it seems much more like a sci-fi mystery presented
 in the style of horror. It almost feels as though someone took a script that
 could have been an all-time great episode of _Doctor Who_ and adapted it for the
 big screen (I promise I mean that as a compliment).
@@ -64,26 +64,27 @@ and I may even decide to write more about it someday. Right now I want to point
 out that a lot has changed over the last two decades of this franchise's
 complicated history, and I think the public consciousness has forgotten that the
 first few of these movies _absolutely rock_, completely unironically. People
-will disagree on where the series took its turn---some might say the decline
+disagree on where the series took its turn---some might say the decline
 began as early as _The Fast and the Furious: Tokyo Drift_, before the series
-has been reduced to typical big-budget action junk food, but where it starts
+had been reduced to typical big-budget action junk food, but after it started
 becoming hard to take anything seriously.
 
 [_2 Fast 2 Furious_](https://www.imdb.com/title/tt0322259/),
 however, deserves so much more love.
 The first entry in the franchise should also get some credit for being great,
-but the sequel is, for me, the peack of the series. It copies the formula from
+but the sequel is, for me, the peak of the series. It copies the formula from
 the original and keeps Paul Walker, but sets aside Vin Diesel and benefits
 greatly from a change of scenery. Abandoning LA for an opportunity to indulge in
 the beachfront lifestyle and high-octane nightlife of Miami---[hmm, I wonder if
-any other franchises could pull that off?](https://www.rockstargames.com/VI)
-This movie introduces Tyrese and Ludacris to the cast, both of whom become
+any other franchises could pull that off?](https://www.rockstargames.com/VI)---was
+a great move.
+_2 Fast_ introduces Tyrese and Ludacris to the cast, both of whom become
 fixtures in the later films and whose characters I claim are the only
 consistently enjoyable elements of the series. Devon Aoki and Eva Mendes also
-deserve a shout-out for being just as fun to watch despite not ending up as core
-members of Dom's Family.
+deserve a shout-out for being just as fun to watch even though they don't become
+core members of Dom's Family.
 The rest of the series sort of shrugs at the viewer and says,
-"yeah, of course these movies are tedious and bad, they're formulaic
+"Yeah, of course these movies are tedious and bad. They're formulaic
 action movies, what did you expect?"
 But at the end of the day, _2 Fast_ makes a strong case that a movie which is
 shallow and formulaic _can be really fun!_ 
@@ -105,15 +106,15 @@ was a throughly rewarding experience---not _just_ "fun" or "cool set pieces"
 or "great acting" or "dramatic" but all of those things at once.
 
 ## _The French Dispatch_ (2021)
-Wes Anderson's _Fantastic Mr. Fox_ is one of my favorite movies ever;
+Wes Anderson's _Fantastic Mr. Fox_ is one of my favorite movies ever.
 I also liked _Isle of Dogs_ and _Moonrise Kingdom_ but until this year I
 hadn't seen most of his other films. I decided to fix that, first by
 watching _The Grand Budapest Hotel_. I thought it was a good movie, but
 I didn't love it as much as I thought I would. I thought that maybe I'd
-outgrown the Wes Anderson quirky aesthetic thing, or that it works better in the
+outgrown the Wes Anderson quirky aesthetic, or that it works better in the
 stop-motion style and doesn't come across as well in live action.
 [_The French Dispatch_](https://www.imdb.com/title/tt8847712/)
-completely changed my mind. The eccentric Wes Anderson thing worked for me, and
+completely changed my mind. The eccentric art style thing worked for me, and
 I liked the anthology format a lot.
 My favorite story was _The Concrete Masterpiece_, with
 Benicio del Toro, L&eacute;a Seydoux, Adrien Brody, and Tilda Swinton.
@@ -170,3 +171,57 @@ in the middle of a nightclub. And I won't spoil the ending here, but let's just
 say that I have a deep appreciation for that kind of end to a story.
 
 ## _Face/Off_ (1997)
+
+I've always been curious about
+[_Face/Off_](https://www.imdb.com/title/tt0119094/)
+but didn't know much about it beyond the most basic premise.
+If you don't already know, the selling point of this movie is that
+Nicolas Cage is a terrorist and John Travolta is an FBI agent and
+for convoluted reasons they _swap faces_.
+I was expecting it to be pretty bad but in a fun way, and was pleasantly
+surprised that it was actually pretty solid. I'll admit that it's not on this
+list for being a better movie than the rest, but I really wanted to talk about
+it. It's amazing how much actually happens in the movie;
+it sets up a massive terror threat as the central conflict early on and then
+_the terror threat is thwarted_ before you're halfway done,
+and then a million other things also happen. But the other things are cohesive,
+they tell a good story, and they contribute to some really interesting overall
+themes.
+
+At its core it's a cops-versus-terrorists action drama with guns
+and explosions, but the gimmick lends itself to unique storytelling
+opportunities.  In particular, when Sean Archer (originally Travolta, then Cage)
+is stuck in a black site prison with no allies who know he's not really Castor
+Troy (Cage, then Travolta), you realize that this protagonist truly has nothing
+left to lose.
+He becomes a profoundly desperate character unlike any other I can think of.
+Which only makes it more moving when, through sheer determination,
+and maybe also the power of love, he manages to claw his way to victory and get
+his old life back.
+And have I mentioned how good Travolta and Cage's performances are?
+Watching Cage play Archer trapped in Troy's body while earnestly pretending to
+be Troy and seeing each layer of this complicated character come across on
+screen is so cool.
+
+## _Jackie Brown_ (1997)
+
+By far the biggest hidden gem on this list. I was making my way through some
+Tarantino movies and was all ready to watch _Once Upon a Time in Hollywood_
+when I made a last-minute decision to see
+[_Jackie Brown_](https://www.imdb.com/title/tt0119396/),
+a movie I'd basically never heard of before, instead.
+This movie is so good and I'm not sure why I don't hear about it as often
+as Tarantino's better-known work. One reason might be that it's in some ways
+less original than his other movies.
+Either way, this was such an interesting watch. 
+It invites comparison to _The Sting_ and other heist movies in the way that
+it keeps the audience largely clued in to the main character's motivations
+while withholding some key pieces of information in service of cultivating
+tension and paying off a twist.
+I also noticed strong similarities to _Better Call Saul_, which obviously came
+later, to the point that I think I've hallucinated an interview where Vince
+Gilligan says he drew inspiration from _Jackie Brown_ when writing his show.
+Now that I've seen the similarity, I want to see more in this genre.
+Not necessarily heists being pulled off by professional criminals, but ordinary
+people, backed into a corner, willing to break a few laws and use their
+ingenuity to come out on top.
