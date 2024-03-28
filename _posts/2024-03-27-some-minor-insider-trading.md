@@ -20,16 +20,15 @@ The story here is largely straightforward for an insider trading case.
 Some guys allegedly got information about a merger before it was public and
 loaded up on call options on the company being acquired. From the [article](https://finance.yahoo.com/news/minor-league-baseball-players-accused-223553242.html) (Bloomberg, via Yahoo! Finance):
 
->Four current and former minor league baseball players illegally traded on Jack in the Box Inc.’s $575 million purchase of Del Taco Restaurants Inc., according to the US Securities and Exchange Commission.
-> ...
->According to the SEC, Qsar was told about the upcoming purchase by a former teammate from Pepperdine University’s baseball team who was working on the due diligence of the acquisition for Jack in the Box. The SEC said Qsar learned about the deal when he was out drinking with his former teammate in San Diego in October 2021.
->Qsar went on to tell Bernard, Witherspoon and Lambert, who had played baseball together, about the potential acquisition. Each then purchased out-of-the-money call options on Del Taco stock, which was then trading on the Nasdaq with the symbol TACO, according to the SEC.
+>Four current and former minor league baseball players illegally traded on Jack in the Box Inc.’s $575 million purchase of Del Taco Restaurants Inc., according to the US Securities and Exchange Commission. ... According to the SEC, Qsar was told about the upcoming purchase by a former teammate from Pepperdine University’s baseball team who was working on the due diligence of the acquisition for Jack in the Box. The SEC said Qsar learned about the deal when he was out drinking with his former teammate in San Diego in October 2021.
+Qsar went on to tell Bernard, Witherspoon and Lambert, who had played baseball together, about the potential acquisition. Each then purchased out-of-the-money call options on Del Taco stock, which was then trading on the Nasdaq with the symbol TACO, according to the SEC.
 
 And then they got
 caught, because in addition to being an effective way to make money insider
 trading, this is also the easiest way to get caught insider trading.
 
-Insider trading enforcement actions aren't that rare, so why is this one noteworthy?
+Insider trading enforcement actions aren't that rare, so why is this one noteworthy
+enough for me to write about?
 Really the main reason this story caught my eye is because that I saw the headline
 listed under sports news on Bloomberg.
 Lots of white collar crime stories are just worth talking about because the people
@@ -182,3 +181,91 @@ It's so straightforward, of course, that the SEC knows to look for it and
 punishes it eagerly, which is why people don't try it.
 Saying "it's easy to make money by insider trading on mergers"
 is like saying "it's easy to save money by shoplifting."
+
+### The Big Picture
+
+So, sure, the SEC knows what patterns of trading to look for if
+they want to detect insider trading.
+But are they actually checking for this kind of thing on every merger?
+From the same article:
+>The case originated from the SEC’s data analysis center, which analyzes market data to detect suspicious trades. Unusual purchases of options ahead of merger announcements can trigger an investigation.
+>“It baffles me that folks still think that they could buy way-out-of-the-money call options before some announcement, and not think that they’ll trigger some sort of alert or some sort of tool that we have out there looking at this information and get caught,” Gurbir Grewal, the SEC’s enforcement chief, said earlier this month. He didn’t reference any particular case or investigation.
+
+Yes, yes they are. But I want to focus on Grewal's confusion here.
+How do people not know they're going to get caught by the federal government.
+[Are they stupid?](https://knowyourmeme.com/memes/is-he-stupid-is-she-smart-are-they-stupid)
+
+I think this is an interesting angle on the modern discourse surrounding
+surveillance, privacy, and "data." So much of the 21st Century has been spent
+discussing which corporations and governments we're worried might be recording,
+retaining, and sharing our data.
+In so many of those contexts the specifics are vague, and I think most people don't
+know what they should be imagining when thinking about data retention.
+For instance, you may understand that a social networking app simply has to retain
+some amount of data in order to function, or for user convenience, or for
+their own completely reasonable internal purposes.
+But you might also have some vague idea that they're selling some subset of
+that data (to whom?) in order to generate revenue, and, taking it one step further,
+maybe they're also coming up with some other kinds of things to record about you
+that they wouldn't have needed otherwise but that they know they can sell.
+The lines get blurry.
+Maybe you have some general understanding that your electronic
+communications and records can be subpoenaed, but do you know under what conditions
+that would happen, or what that process looks like? If your texts with your friend
+get investigated because he's implicated in an insider trading scheme, do you
+have to hand over your phone, or can Apple just send over a transcript they have
+archived from their servers without your permission or knowledge?
+What types of data do law enforcement agencies need warrants for?
+
+Many of those questions have definite answers, while some of them are kind of
+unknowable.
+I (and I would guess most people) don't act as though I know
+the answers most of the time.
+But, I think a lot of people operationalize all of the above as something like
+"if I google the wrong thing, I might end up on a list"
+without thinking about who would know to put them on what list and why.
+
+Here's the thing about the stock market though: every single thing you do
+is recorded, and it's not even slightly a secret.
+Securities regulation may have some nuances in some areas, but the question of
+what transactions are being surveilled is not one of them. The public markets
+are public! Every financial institution involved in securities trading is
+required by either federal or industry regulations to thoroughly document
+every purchase or sale of a security they're involved with.
+Every time you buy a share of a stock, half a dozen different institutions
+write it down in triplicate. And if a regulator wants the information, they just
+have to ask. It's not a secret, either;
+[here's a webpage](https://www.finra.org/filing-reporting/electronic-blue-sheets-ebs)
+explaining some of it.
+[This other page](https://www.finra.org/rules-guidance/notices/20-19) explains
+the format of these reports (these specifically are called "Blue Sheets").
+If you look at that page, you can see what gets sent to Finra if they ask
+for a Blue Sheet: attached to each trade is the account holder's
+full name, address, social security number, and employer name.
+Investigating these sheets doesn't involve crawling through some complicated
+web of connections to figure out who traded what when.
+I'm making up the specifics here, but for instance the SEC can just ask
+the Options Clearing Corporation for every TACO options trade in some time period,
+find out which broker-dealer was buying out-of-the-money calls,
+ask that broker-dealer for their Blue Sheets, and see exactly who made what trades.
+
+
+Broker-dealers that fail to comply properly with this policy
+[are held accountable](https://www.sec.gov/news/press-release/2023-191)
+(to the extent that a $6 million penalty counts as holding
+Goldman Sachs accountable), and you agree to be part of this system when you
+open a new account at a registered broker-dealer.
+In some sense it's obvious. I give my bank my SSN, and I don't give it to Facebook.
+I know for a fact the bank sends my data to the federal government for tax purposes,
+whereas my understanding of who Meta gives my data to is hazy at best.
+For whatever reason, though, people who understand that insider trading is
+illegal seem to think they can get away with the most blatant version of it.
+
+To tie it back to our minor leaguers from above, I'll point out that, even
+in the 2020s, when it feels like irrational options trading has become impossibly
+popular, these options markets are pretty thin. Not very many people want
+to trade far-out-of-the-money call options on random small companies unless
+they're trying to insider trade, so it really isn't hard to spot
+suspicious trading patterns. It's possible the defendants in this case were
+the only ones buying these options for weeks.
+You can imagine why Grewal feels it's too easy.
